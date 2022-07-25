@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Muhammad Abiyyu
+2. Email: mhmdabiyyu19@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: abiyyu19
+5. Akun Telegram: Abiyyu || +62 857 1636 6797 || @ciwancu
